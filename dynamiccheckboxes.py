@@ -35,4 +35,4 @@ class Autoselectcheckbox:
         alert = driver.switch_to.alert
         print(alert.text)
         alert.accept() #alert.dismiss()
-        time.sleep(5)
+        
