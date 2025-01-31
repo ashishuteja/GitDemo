@@ -1,8 +1,0 @@
-2025-01-28 15:21:16,166 :INFO :PracticeEndtoEnd.BaseClass Information is executed
-2025-01-28 15:21:16,166 :WARNING :PracticeEndtoEnd.BaseClass warning message is printed
-2025-01-28 15:21:16,167 :ERROR :PracticeEndtoEnd.BaseClass error message is printed
-2025-01-28 15:21:16,167 :CRITICAL :PracticeEndtoEnd.BaseClass critical message
-2025-01-28 15:23:56,788 :INFO :PracticeEndtoEnd.BaseClass Information is executed
-2025-01-28 15:23:56,789 :WARNING :PracticeEndtoEnd.BaseClass warning message is printed
-2025-01-28 15:23:56,790 :ERROR :PracticeEndtoEnd.BaseClass error message is printed
-2025-01-28 15:23:56,790 :CRITICAL :PracticeEndtoEnd.BaseClass critical message
